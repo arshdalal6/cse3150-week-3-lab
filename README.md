@@ -1,2 +1,2 @@
 # cse_3150_lab2
-test
+CSE 3150 Lab 2
